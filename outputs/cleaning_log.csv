@@ -1,0 +1,61 @@
+id,variable,raw_value,issue,action
+31,south,,blank cell,set to missing
+31,south,,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+32,metro,b,non-numeric text,set to missing
+32,south,,blank cell,set to missing
+32,south,,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+33,metro,,blank cell,set to missing
+33,sib,33.0,impossible/implausible value (# siblings; all other values <= 5),set to missing
+33,south,,blank cell,set to missing
+33,south,,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+44,sal,1111.0,impossible/implausible value (salary must be positive; all other values <= 60),set to missing
+53,edu,122.0,impossible/implausible value (years of education; all other values <= 18),set to missing
+88,daded,435.0,impossible/implausible value (father's education; all other values <= 19),set to missing
+98,momed,,blank cell,set to missing
+99,momed,,blank cell,set to missing
+100,momed,,blank cell,set to missing
+103,edu,1001.0,impossible/implausible value (years of education; all other values <= 18),set to missing
+103,sal,435.67,impossible/implausible value (salary must be positive; all other values <= 60),set to missing
+104,edu,SS0,non-numeric text,set to missing
+120,west,a,non-numeric text,set to missing
+120,west,a,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+127,sib,101.0,impossible/implausible value (# siblings; all other values <= 5),set to missing
+174,norcen,100.0,"dummy not in {0,1}",set to missing
+217,itreq,,blank cell,set to missing
+217,itreq,,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+218,itreq,,blank cell,set to missing
+218,itreq,,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+219,itreq,111.0,"dummy not in {0,1}",set to missing
+220,itreq,,blank cell,set to missing
+220,itreq,,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+220,norcen,,blank cell,set to missing
+221,itreq,,blank cell,set to missing
+221,itreq,,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+222,sal,acb,non-numeric text,set to missing
+226,momed,111.0,impossible/implausible value (mother's education; all other values <= 15),set to missing
+231,daded,,blank cell,set to missing
+232,itprog,44,"dummy not in {0,1}",set to missing
+232,itprog,44,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+241,exper,,blank cell,set to missing
+242,exper,,blank cell,set to missing
+247,sib,333.0,impossible/implausible value (# siblings; all other values <= 5),set to missing
+247,south,aaa,non-numeric text,set to missing
+248,south,,blank cell,set to missing
+249,south,,blank cell,set to missing
+250,south,231.0,"dummy not in {0,1}",set to missing
+258,south,1111.0,"dummy not in {0,1}",set to missing
+274,momed,ab,non-numeric text,set to missing
+278,itqual,s,non-numeric text,set to missing
+278,itqual,s,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+318,sal,,blank cell,set to missing
+345,sib,,blank cell,set to missing
+360,sal,333.334,impossible/implausible value (salary must be positive; all other values <= 60),set to missing
+369,daded,,blank cell,set to missing
+382,sib,222.0,impossible/implausible value (# siblings; all other values <= 5),set to missing
+419,west,a,non-numeric text,set to missing
+419,west,a,invalid/blank dummy inside a mutually exclusive block,recovered as 0 (another dummy of the same block equals 1)
+438,sal,,blank cell,set to missing
+481,edu,120.0,impossible/implausible value (years of education; all other values <= 18),set to missing
+482,edu,,blank cell,set to missing
+503,sal,-2.45,impossible/implausible value (salary must be positive; all other values <= 60),set to missing
+519,west,101.0,"dummy not in {0,1}",set to missing

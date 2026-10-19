@@ -1,4 +1,0 @@
-Sample,N,coef,p_classical,p_HC3
-Full sample,526,0.0052,0.0113,0.0258
-Drop edu < 8 years,510,0.006,0.0388,0.0723
-Trim top/bottom 1% of salary,514,0.0037,0.0391,0.091
