@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""MP2 - Salary determinants at HCL Technologies.  Run the whole pipeline.
-
-    python main.py data/ITEmp.xlsx -o outputs            # analysis + figures + table images + Excel workbook
-    python main.py data/ITEmp.xlsx -o outputs --no-visuals   # numbers only (results.json, CSV tables)
-
-Stages run in this order; each lives in its own module under mp2/.
-"""
 import argparse
 import os
 import sys
