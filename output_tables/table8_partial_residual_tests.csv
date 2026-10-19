@@ -1,0 +1,8 @@
+Regressor,F_statistic,p_value,Evidence_of_nonlinearity
+c_edu,0.4407,0.6438,False
+c_exper,2.8621,0.058,False
+c_ten,0.7735,0.4619,False
+c_dep,0.1383,0.8708,False
+c_momed,0.3744,0.6879,False
+c_daded,0.373,0.6889,False
+c_sib,1.8559,0.1573,False

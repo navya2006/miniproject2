@@ -1,1 +1,0 @@
-Model 3 N: 482\nBreusch-Pagan LM=21.2175, p=0.730649\nRamsey RESET F=16.2674, p=0.00006452\nJarque-Bera statistic=69642.8029, p=0\nHC3 robust standard errors are reported for coefficient inference.\n

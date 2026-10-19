@@ -1,0 +1,8 @@
+Block,F_statistic,p_value,Significant_at_5pct
+"Human capital (edu, exper, ten)",19.4026,0.0,True
+Demographic controls,7.9868,0.0,True
+Geographic controls,4.8026,0.0008,True
+IT work-groups,7.9282,0.0,True
+IT divisions,4.0128,0.0187,True
+Quadratic human capital,9.0532,0.0,True
+Interactions,3.0167,0.0178,True

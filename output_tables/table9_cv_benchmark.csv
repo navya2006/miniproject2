@@ -1,0 +1,4 @@
+Model,CV_R2
+"OLS, linear in X",0.4157
+"OLS, quadratics + interactions (M7 design)",0.4477
+"Gradient boosting (flexible benchmark, raw X)",0.3608
